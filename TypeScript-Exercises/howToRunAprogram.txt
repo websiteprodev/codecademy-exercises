@@ -1,0 +1,23 @@
+// Ensure TypeScript is installed globally
+// npm install -g typescript
+
+// Compile the TypeScript file
+// tsc declarationArrays.ts
+
+// If you encounter issues, ensure you are in the correct directory
+// cd /C:/Users/stoya/OneDrive/Desktop/Codeacademy/Exercises/codecademy-exercises/TypeScript-Exercises/ComplexTypes/Arrays
+
+// Run the compiled JavaScript file
+// node declarationArrays.js
+
+-----------------------------------
+
+// TypeScript should be installed globally using npm, so it is not specific to a file.
+// However, you can create a package.json file in your project directory to manage dependencies.
+// Run the following command to create a package.json file:
+// npm init -y
+
+// Then, install TypeScript as a dev dependency:
+// npm install typescript --save-dev
+
+// This will add TypeScript to your project's package.json file under devDependencies.
